@@ -6,12 +6,12 @@
   connect4는 중력빙고 게임으로 가로 세로 대각선방향으로 4돌을 두면 이기는 게임이다.
   콘솔 환경에서 작동하며 선수(X)와 후수(O)를 선택할수있고 AI보다 4돌을 먼저 두면 이긴다.
 
-<div>
-<img width="241" alt="dd" src="https://user-images.githubusercontent.com/41245313/92613255-b96c1900-f2f5-11ea-9ba0-ccf70939dee7.png">
-<img width="230" alt="hhh" src="https://user-images.githubusercontent.com/41245313/92614665-42d01b00-f2f7-11ea-90a4-d128626b2006.png">
-<img width="220" alt="rrrr" src="https://user-images.githubusercontent.com/41245313/92615034-a6f2df00-f2f7-11ea-84d8-c4fad4a916c8.png">
+  <div>
+  <img width="241" alt="dd" src="https://user-images.githubusercontent.com/41245313/92613255-b96c1900-f2f5-11ea-9ba0-ccf70939dee7.png">
+  <img width="230" alt="hhh" src="https://user-images.githubusercontent.com/41245313/92614665-42d01b00-f2f7-11ea-90a4-d128626b2006.png">
+  <img width="220" alt="rrrr" src="https://user-images.githubusercontent.com/41245313/92615034-a6f2df00-f2f7-11ea-84d8-c4fad4a916c8.png">
 
-</div>
+  </div>
 
 * 사용언어 
 
