@@ -30,9 +30,9 @@
 
 * cf) 
   * 객체 복사시 shallow copy가 발생해서 operator=를 overloading함으로써 deep copy를 해주었다.
-  * game tree의 leaf node에서는 8수 앞을 가정해서 score를 계산하고 minmax알고리즘을 통해 score가
+  * 기존에는 game tree의 leaf node에서는 8수 앞을 가정해서 score를 계산하고 minmax알고리즘을 통해 score가
   가장 높은 수를 선택했는데 너무 앞의 상황에 치중해 현재 상황에 좋지않은 수를 두는 문제가 생겨서 
-  각 깊이마다 score를 기존score에 합해주었고 얕은 깊이일수록 가중치를 더 주었다.
+  각 깊이마다 score를 계산 후 기존 score에 합해주었고 얕은 깊이일수록 가중치를 더 주었다.
 
 
 
