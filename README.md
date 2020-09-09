@@ -1,14 +1,14 @@
 # connect4
 
 
-*게임설명
+* 게임설명
 
   connect4는 중력빙고 게임으로 가로 세로 대각선방향으로 4돌을 두면 이기는 게임이다.
   콘솔 환경에서 작동하며 선수(X)와 후수(O)를 선택할수있고 AI보다 4돌을 먼저 두면 이긴다.
 
 <div>
 <img width="241" alt="dd" src="https://user-images.githubusercontent.com/41245313/92613255-b96c1900-f2f5-11ea-9ba0-ccf70939dee7.png">
-<img width="182" alt="dddd" src="https://user-images.githubusercontent.com/41245313/92613265-bcffa000-f2f5-11ea-818b-5cd49c4e803a.png">
+<img width="341" alt="fffff" src="https://user-images.githubusercontent.com/41245313/92614306-de14c080-f2f6-11ea-9fae-b188602f687f.png">
 </div>
 
 * 사용언어 
