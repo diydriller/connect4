@@ -8,7 +8,9 @@
 
 <div>
 <img width="241" alt="dd" src="https://user-images.githubusercontent.com/41245313/92613255-b96c1900-f2f5-11ea-9ba0-ccf70939dee7.png">
-<img width="233" alt="hhh" src="https://user-images.githubusercontent.com/41245313/92614665-42d01b00-f2f7-11ea-90a4-d128626b2006.png">
+<img width="241" alt="hhh" src="https://user-images.githubusercontent.com/41245313/92614665-42d01b00-f2f7-11ea-90a4-d128626b2006.png">
+<img width="241" alt="rrrr" src="https://user-images.githubusercontent.com/41245313/92615034-a6f2df00-f2f7-11ea-84d8-c4fad4a916c8.png">
+
 </div>
 
 * 사용언어 
